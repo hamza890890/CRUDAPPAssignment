@@ -1,9 +1,6 @@
-# su24-jpa-demo
-## CRUD MVC App using JPA/Hibernate, MySQL, and ThymeLeaf.
-## Instructions:
-# Task Manager Application
+# PLEASE READ ME! CRUD 
+## APP ASSIGNMENT
 
-This is an individual assignment. You are required to design and develop a web application that stores data persistently in a database.
 
 ## My Instructions for running the program (This took roughly 8 hours in total to complete. Starting the Friday of Memorial day Weekend and Continuing up until the day before it was due)
 
